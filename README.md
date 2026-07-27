@@ -27,7 +27,7 @@
 ### Opcao 1: Clonar este repositorio
 
 ```bash
-git clone https://github.com/ohmyjahh/xquads-squads.git
+git clone https://github.com/icarosouzatrafego-dev/xquads-squads.git
 ```
 
 Copie a pasta para dentro do seu projeto aiox-core:
