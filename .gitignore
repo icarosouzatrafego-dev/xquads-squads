@@ -1,0 +1,18 @@
+# Build / runtime
+.next/
+node_modules/
+dist/
+out/
+
+# Ambiente e segredos
+.env
+.env.*
+!.env.example
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
